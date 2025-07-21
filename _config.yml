@@ -1,3 +1,15 @@
 title: OfficialPixelPower
 description: Meine offizielle Streaming-Seite
 theme: jekyll-theme-cayman
+
+# Navigation hinzufügen
+show_downloads: false
+navigation:
+  - title: Upload-Plan
+    url: /uploadplan
+  - title: Mein Setup
+    url: /setup
+  - title: Spenden & Mitgliedschaft
+    url: /mitgliedschaft
+  - title: YouTube-Kanal
+    url: /kanal
