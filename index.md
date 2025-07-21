@@ -6,12 +6,24 @@ permalink: /
 
 # 👋 Willkommen!
 
-Ich bin **PixelPower** – Gamer & Content Creator.  
-Auf dieser Seite findest du:
+> **Schon gesehen?**  
+> Schau dir mein neuestes Video an:
 
-- 🗓️ Wann neue Videos erscheinen  
-- 🖥️ Mein aktuelles Setup  
-- 💸 Infos zu Spenden & Mitgliedschaft  
-- ▶️ Link zu meinem YouTube-Kanal  
+<div style="text-align:center; margin:20px 0;">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/nQD2q7y_IXE"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
-Viel Spaß!
+---
+
+## 📅 Upload‑Plan  
+Neue Videos immer dienstags und donnerstags!
+
+---
+
+**Navigation:**  
+[Upload‑Plan](/uploadplan/) · [Mein Setup](/setup/) · [News](/news/) · [YouTube-Kanal](/kanal/)
