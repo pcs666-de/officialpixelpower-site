@@ -1,8 +1,8 @@
 title: OfficialPixelPower
-description: Meine offizielle Streaming‑Seite
+description: Meine offizielle Website
 theme: jekyll-theme-cayman
 
-# Navigation
+# Navigation oben
 navigation:
   - title: Home
     url: /
@@ -10,7 +10,13 @@ navigation:
     url: /uploadplan/
   - title: Mein Setup
     url: /setup/
-  - title: Unterstützen
-    url: /support/
+  - title: News
+    url: /news/
   - title: YouTube‑Kanal
     url: /kanal/
+
+# News-Collection
+collections:
+  news:
+    output: true
+    permalink: /news/:title/
